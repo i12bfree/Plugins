@@ -20,14 +20,14 @@
         "sortDescending": ": 내림차순 정렬"
     },
     "buttons": {
-        "copyKeys": "ctrl키 나 u2318 + C키로 테이블 데이터를 시스텝 복사판에서 복사하고 취소하려면 이 메시지를 클릭하거나 ESC키를 누르면됩니다. to copy the table data to your system clipboard. To cancel, click this message or press escape.",
+        "copyKeys": "테이블 데이터를 시스템 클립보드에 복사하려면 ctrl 또는 u2318 + C 키를 누릅니다. <br><br>취소하려면 이 메시지를 클릭하거나 ESC키를 누르면 됩니다.",
         "copySuccess": {
-            "_": "%d행을 복사판에서 복사됨",
-            "1": "1행을 복사판에서 복사됨"
+            "_": "%d행이 클립보드에 복사됨",
+            "1": "1행이 클립보드에 복사됨"
         },
-        "copyTitle": "복사판에서 복사",
+        "copyTitle": "클립보드에 복사",
         "csv": "CSV",
-        "excel": "엑설",
+        "excel": "엑셀",
         "pageLength": {
             "-1": "모든 행 보기",
             "_": "%d행 보기"
@@ -49,8 +49,8 @@
         "condition": "조건",
         "data": "데이터",
         "deleteTitle": "필터 규칙을 삭제",
-        "logicAnd": "And",
-        "logicOr": "Or",
+        "logicAnd": "그리고",
+        "logicOr": "또는",
         "title": {
             "0": "빌더 조회",
             "_": "빌더 조회(%d)"
@@ -59,8 +59,8 @@
     },
     "autoFill": {
         "cancel": "취소",
-        "fill": "모든 셀에서 <i>%d<i>을(를) 삽입<\/i><\/i>",
-        "fillHorizontal": "수평 셀에서 값을 삽입",
-        "fillVertical": "수직 설에서 값을 삽입"
+        "fill": "모든 셀에 <i>%d<i>을(를) 삽입<\/i><\/i>",
+        "fillHorizontal": "수평 셀에 값을 삽입",
+        "fillVertical": "수직 셀에 값을 삽입"
     }
 }
